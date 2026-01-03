@@ -9,7 +9,6 @@ This repository contains C++ implementations of various algorithms and concepts 
 ## Contents
 
 The codes cover topics such as:
-
 - Finite Automata
 - Turing Machines
 - And other TOC concepts.
@@ -19,7 +18,6 @@ The codes cover topics such as:
 You can compile any of the files using a C++ compiler (like g++).
 
 Example:
-
 ```bash
 g++ src/tocfile12.cpp -o tocfile12
 ./tocfile12
