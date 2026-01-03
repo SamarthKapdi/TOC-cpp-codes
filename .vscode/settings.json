@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "iostream": "cpp",
+        "tocfile8,cpp": "cpp"
+    }
+}
